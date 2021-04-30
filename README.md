@@ -3,9 +3,15 @@
 - 🌱 I’m currently learning Javascript, React and Advance Java
 - 📫 Please reach out to me at dilip35kumar@gmail.com
 
-![Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiiamdilip&show_icons=true&theme=dark)
+## 📈 GitHub Stats
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiiamdilip&theme=dark)
+<a href="https://github.com/c4tbrilliantthoughts">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?       username=hiiamdilip&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+</a>
+
+<a href="https://github.com/c4tbrilliantthoughts">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hiiamdilip&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Sumanth Sanathi's GitHub Stats" />
+</a>
 
 <!---
 hiiamdilip/hiiamdilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
