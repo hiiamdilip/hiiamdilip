@@ -1,6 +1,6 @@
 - 👋 Hi, This is Dilip
 - 👀 I’m currently working on Rest Api and Java.
-- 🌱 I’m currently learning Advance Javascript, React and Advance Java
+- 🌱 I’m currently learning Advance Java, Javascript and React
 - 🚩 2022 Goals - **To Be an Expert in ReactJS**
 - 💬 Ask me about Indian Premier League
 - 📫 Please reach out to me at dilip35kumar@gmail.com
