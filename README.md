@@ -1,7 +1,7 @@
 - 👋 Hi, This is Dilip
-- 👀 I’m currently working on Oracle Jet, Node.js, Rest Api and Java.
+- 👀 I’m currently working on Rest Api and Java.
 - 🌱 I’m currently learning Advance Javascript, React and Advance Java
-- 🚩 2021 Goals - **To Be an Expert in ReactJS**
+- 🚩 2022 Goals - **To Be an Expert in ReactJS**
 - 💬 Ask me about Indian Premier League
 - 📫 Please reach out to me at dilip35kumar@gmail.com
 
